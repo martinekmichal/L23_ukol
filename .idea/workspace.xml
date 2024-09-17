@@ -5,21 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60ff912d-7994-412d-b9e3-60e0f769e3ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/L23_ukol.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/hlavicka.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/logout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/master.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/uzivatel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fotobanka/data/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotobanka/data/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/copiright.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotobanka/data/templates/profile_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotobanka/uzivatele/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotobanka/uzivatele/templates/create_foto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotobanka/uzivatele/templates/user_foto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotobanka/uzivatele/templates/user_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotobanka/uzivatele/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/data/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/data/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/data/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/data/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/data/templates/hlavicka.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/data/templates/hlavicka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/data/templates/master.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/data/templates/master.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/data/templates/uzivatel.html" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/data/templates/uzivatel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/data/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/data/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/data/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/data/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/fotobanka/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/fotobanka/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/uzivatele/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/uzivatele/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fotobanka/uzivatele/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/fotobanka/uzivatele/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

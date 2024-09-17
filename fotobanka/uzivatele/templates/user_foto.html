@@ -1,0 +1,16 @@
+{% extends "master.html" %}
+
+
+{% block title %}
+Home
+{% endblock %}
+
+
+{% block content %}
+<h1>{{ object.title }}</h1>
+    <p><strong>Author:</strong> {{ object.author }}</p>
+    <p><strong>Cena:</strong> {{ object.cena }}</p>
+    <a href="">Edit</a>
+    <a href="">Delete</a>
+    <a href="{% url 'user_list' %}">Seznam Fotek</a>
+{% endblock %}
